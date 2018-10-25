@@ -33,9 +33,5 @@ $ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Rogerio Pio Nunes
 
-### License
-
-This project is licensed under the MIT License
